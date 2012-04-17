@@ -1,0 +1,3 @@
+1) compile the code using erlc *
+2) start node erl -name nodename@IP -setcookie cookie
+3) calc:start_link().

@@ -1,0 +1,5 @@
+1) compile code (put in same folder as client).
+2) follow client instructions.
+
+3) div_3_5_gs:start_link().
+4) div_3_5_gs:find_sum().
