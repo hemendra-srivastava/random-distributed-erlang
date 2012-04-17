@@ -1,0 +1,6 @@
+The Calculator code that needs to be run on all nodes that do calculation(including the main_server) is in folder client/
+The main_server that makes the request from all known nodes(including itself) is in main_server.
+
+to discover nodes you need to start nodes using -name a@IP and -setcookie cookie. All nodes use same cookie
+
+** PLEASE NOTE, CLIENT CODE RUNS ON ALL NODES INCLUDING SELF **
